@@ -12,20 +12,24 @@
 	<dict>
 		<key>85BE6658437BF5ED22D40C2D7E54882B0602FC75</key>
 		<string>https://github.com/TIY-ATL-Group-2-Checkers/iOS.git</string>
+		<key>88BC9F2C56F7AAA36FBF7E2ABD94A4B8F08416C8</key>
+		<string>https://github.com/WilliamJudd/Checkers.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Checkers/Checkers.xcodeproj</string>
+	<string>Checkers.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>85BE6658437BF5ED22D40C2D7E54882B0602FC75</key>
 		<string>../../..</string>
+		<key>88BC9F2C56F7AAA36FBF7E2ABD94A4B8F08416C8</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/TIY-ATL-Group-2-Checkers/iOS.git</string>
+	<string>https://github.com/WilliamJudd/Checkers.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>85BE6658437BF5ED22D40C2D7E54882B0602FC75</string>
+	<string>88BC9F2C56F7AAA36FBF7E2ABD94A4B8F08416C8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>85BE6658437BF5ED22D40C2D7E54882B0602FC75</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iOS</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>88BC9F2C56F7AAA36FBF7E2ABD94A4B8F08416C8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Checkers</string>
 		</dict>
 	</array>
 </dict>
